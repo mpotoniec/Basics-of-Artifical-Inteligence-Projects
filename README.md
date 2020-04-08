@@ -1,1 +1,1 @@
-# Basics-of-Artifical-Inteligence-Projects
+# Predicting pulsar stars with neural network and deep learning. Student's project
